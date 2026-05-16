@@ -2,8 +2,9 @@ import 'package:flutter/material.dart';
 
 import '../../../core/constants/app_dimensions.dart';
 import '../../../core/theme/app_colors.dart';
-import '../../../placeholder/pages/placeholder_page.dart';
-import '../../../pos/pages/pos_home_page.dart';
+
+import '../../placeholder/pages/placeholder_page.dart';
+import '../../pos/pages/pos_home_page.dart';
 import '../models/navigation_item_model.dart';
 import '../widgets/side_menu.dart';
 
